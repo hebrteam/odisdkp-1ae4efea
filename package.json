@@ -84,7 +84,7 @@
     "typescript": "^3.6.3",
     "webpack-dev-server": "^3.8.1",
     "webpack-sources": "^1.4.3",
-    "xlsx": "^0.15.1",
+    "xlsx": "^0.17.0",
     "zone.js": "^0.10.2"
   },
   "devDependencies": {
